@@ -6,7 +6,7 @@
 
 Welcome to the "GPT-4 Prompts" repository! Here, you will find prompts for GPT-4 that utilize its multimodality to produce the best results.
 
-[GPT-4](https://openai.com/product/gpt-4) is a LLM developed by [OpenAI](https://openai.com). One of its key features, inherited from [GPT-3.5/ChatGPT](https://openai.com/blog/chatgpt), is its ability to recognize images.
+[GPT-4](https://openai.com/product/gpt-4) is a LLM developed by [OpenAI](https://openai.com). One of its key features, not like [GPT-3.5/ChatGPT](https://openai.com/blog/chatgpt), is its ability to recognize images.
 
 This repository draws inspiration from [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). However, since that repository is outdated, I have created a new collection to share GPT-4's new capabilities with everyone.
 
