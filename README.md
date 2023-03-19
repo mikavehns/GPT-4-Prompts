@@ -14,7 +14,6 @@ These prompts are designed to be used on the [OpenAI-Playground](https://platfor
 
 ---
 
-
 # Prompts
 
 ## Fix code appearance
@@ -22,7 +21,7 @@ By: [@mikavehns](https://github.com/mikavehns)
 
 <details>
   <summary>System Message</summary>
-> "You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance."
+> "You are a programming expert. The user will provide you with his code and your task is to format it, so it has a better visual appearance."
  </details>
  
  <details>
@@ -30,42 +29,39 @@ By: [@mikavehns](https://github.com/mikavehns)
   ```
   Your Code
   ```
- </details>
- 
- ### Example
- <details>
-  <summary>Input</summary>
-  ```
-  def    sum    (a ,b )    :
+  </details>
+
+### Example
+<details>
+<summary>Input</summary>
+```
+  def sum (a ,b ) :
 #adding two numbers
-  return(  a   +    b
-  )
-num1 =    5
-num2 =    10
+return( a + b
+)
+num1 = 5
+num2 = 10
 
 #calling function
 result= sum (num1, num2)
 print("The sum of", num1 , "and", num2 , "is", result)
   ```
- </details>
- 
- <details>
-  <summary>Output</summary>
-  > Here's the formatted code:
+  </details>
 
+<details>
+<summary>Output</summary>
+> Here's the formatted code:
 ```
-def sum(a, b):
-    # adding two numbers
-    return a + b
+  def sum(a, b):
+# adding two numbers
+return a + b
 
 num1 = 5
 num2 = 10
-
-# calling function
-result = sum(num1, num2)
+  # calling function
+  result = sum(num1, num2)
 print("The sum of", num1, "and", num2, "is", result)
-```
-
+  ```
 Changes made:
 - Removed unnecessary spaces between function name and parameters.
 - Added spaces between parameters and commas.
@@ -73,3 +69,5 @@ Changes made:
 - Removed unnecessary parentheses around return statement.
 - Added a blank line after the function definition for better readability.
  </details>
+```
+  
