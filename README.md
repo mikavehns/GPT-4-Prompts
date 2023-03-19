@@ -1,6 +1,6 @@
-<p align="center"><h1>GPT-4 Prompts</h1></p>
+# GPT-4 Prompts
 
-<p align="center"><img src="https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg"></p>
+![GPT-4 Image](https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg)
 
 Welcome to the "GPT-4 Prompts" repository! Here, you will find prompts for GPT-4 that utilize its multimodality to produce the best results.
 
@@ -13,7 +13,6 @@ Each prompt in this repository comes with an explanation of how to use it. You c
 These prompts are designed to be used on the [OpenAI-Playground](https://platform.openai.com/playground?mode=chat). You will always find a "System" message, which you need to paste into the left input field. Any additional instructions will be provided above the prompt.
 
 ---
-
 
 # Prompts
 
