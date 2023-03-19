@@ -1,6 +1,6 @@
 # GPT-4 Prompts
 
-![GPT-4 Image](https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg)
+![GPT-4](https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg)
 
 Welcome to the "GPT-4 Prompts" repository! Here, you will find prompts for GPT-4 that utilize its multimodality to produce the best results.
 
@@ -19,62 +19,47 @@ These prompts are designed to be used on the [OpenAI-Playground](https://platfor
 ## Fix code appearance
 By: [@mikavehns](https://github.com/mikavehns)
 
-<details>
-  <summary>System Message</summary>
-  <blockquote>You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.</blockquote>
- </details>
- 
- <details>
-  <summary>User Message</summary>
-  <blockquote>
-    Your Code
-  </blockquote>
- </details>
- 
- ### Example
- <details>
-  <summary>Input</summary>
-  <blockquote>
-    
-    def    sum    (a ,b )    :
-      #adding two numbers
-      return(  a   +    b
-      )
-    
-    num1 =    5
-    num2 =    10
+**System Message**
+> You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.
 
-    #calling function
-    result= sum (num1, num2)
-    print("The sum of", num1 , "and", num2 , "is", result)
-    
-  </blockquote>
- </details>
- 
- <details>
-  <summary>Output</summary>
-  <blockquote>
-    Here's the formatted code:
-   </blockquote>
-    <code>
-      def sum(a, b):
-          # adding two numbers
-          return a + b
+**User Message**
+> Your Code
 
-      num1 = 5
-      num2 = 10
+### Example
+**Input**
+```
+def    sum    (a ,b )    :
+  #adding two numbers
+  return(  a   +    b
+  )
 
-      # calling function
-      result = sum(num1, num2)
-      print("The sum of", num1, "and", num2, "is", result)
-    </code>
-  
-  <blockquote>
-    Changes made:
-    - Removed unnecessary spaces between function name and parameters.
-    - Added spaces between parameters and commas.
-    - Added spaces around operators for better readability.
-    - Removed unnecessary parentheses around return statement.
-    - Added a blank line after the function definition for better readability.
-  </blockquote>
- </details>
+num1 =    5
+num2 =    10
+
+#calling function
+result= sum (num1, num2)
+print("The sum of", num1 , "and", num2 , "is", result)
+```
+
+**Output**
+```
+Here's the formatted code:
+
+  def sum(a, b):
+      # adding two numbers
+      return a + b
+
+  num1 = 5
+  num2 = 10
+
+  # calling function
+  result = sum(num1, num2)
+  print("The sum of", num1, "and", num2, "is", result)
+
+Changes made:
+- Removed unnecessary spaces between function name and parameters.
+- Added spaces between parameters and commas.
+- Added spaces around operators for better readability.
+- Removed unnecessary parentheses around return statement.
+- Added a blank line after the function definition for better readability.
+```
