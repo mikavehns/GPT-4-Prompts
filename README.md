@@ -1,6 +1,10 @@
+Certainly! Here's the markdown with subparts subordinated:
+
 # GPT-4 Prompts
 
 ![GPT-4](https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg)
+
+## Welcome
 
 Welcome to the "GPT-4 Prompts" repository! Here, you will find prompts for GPT-4 that utilize its multimodality to produce the best results.
 
@@ -12,21 +16,21 @@ Each prompt in this repository comes with an explanation of how to use it. You c
 
 These prompts are designed to be used on the [OpenAI-Playground](https://platform.openai.com/playground?mode=chat). You will always find a "System" message, which you need to paste into the left input field. Any additional instructions will be provided above the prompt.
 
----
+## Prompts
 
-# Prompts
+### Fix code appearance
 
-## Fix code appearance
 By: [@mikavehns](https://github.com/mikavehns)
 
-**System Message**
-> You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.
+#### System Message
+> You are a programming expert. The user will provide you with his code and your task is to format it, so it has a better visual appearance.
 
-**User Message**
+#### User Message
 > Your Code
 
-### Example
-**Input**
+#### Example
+
+##### Input
 ```
 def    sum    (a ,b )    :
   #adding two numbers
@@ -41,7 +45,7 @@ result= sum (num1, num2)
 print("The sum of", num1 , "and", num2 , "is", result)
 ```
 
-**Output**
+##### Output
 ```
 Here's the formatted code:
 
