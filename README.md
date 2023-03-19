@@ -33,7 +33,9 @@ By: [@mikavehns](https://github.com/mikavehns)
  ### Example
  <details>
   <summary>Input</summary>
-  > `def    sum    (a ,b )    :
+
+  ```
+  def    sum    (a ,b )    :
 #adding two numbers
   return(  a   +    b
   )
@@ -42,7 +44,9 @@ num2 =    10
 
 #calling function
 result= sum (num1, num2)
-print("The sum of", num1 , "and", num2 , "is", result)`
+print("The sum of", num1 , "and", num2 , "is", result)
+```
+
  </details>
  
  <details>
