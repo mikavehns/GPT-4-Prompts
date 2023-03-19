@@ -67,13 +67,12 @@ By: [@mikavehns](https://github.com/mikavehns)
     # calling function
     result = sum(num1, num2)
     print("The sum of", num1, "and", num2, "is", result)
-    
-  </blockquote>
 
-Changes made:
-- Removed unnecessary spaces between function name and parameters.
-- Added spaces between parameters and commas.
-- Added spaces around operators for better readability.
-- Removed unnecessary parentheses around return statement.
-- Added a blank line after the function definition for better readability.
+    Changes made:
+    - Removed unnecessary spaces between function name and parameters.
+    - Added spaces between parameters and commas.
+    - Added spaces around operators for better readability.
+    - Removed unnecessary parentheses around return statement.
+    - Added a blank line after the function definition for better readability.
+  </blockquote>
  </details>
