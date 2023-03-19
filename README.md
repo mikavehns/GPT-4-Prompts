@@ -40,8 +40,6 @@ By: [@mikavehns](https://github.com/mikavehns)
  <details>
   <summary>Input</summary>
   <blockquote>
-
-  ```
   def    sum    (a ,b )    :
     #adding two numbers
     return(  a   +    b
@@ -52,27 +50,24 @@ num2 =    10
 #calling function
 result= sum (num1, num2)
 print("The sum of", num1 , "and", num2 , "is", result)
-```
-    
 </blockquote>
  </details>
  
  <details>
   <summary>Output</summary>
-  > Here's the formatted code:
+  <blockquote>
+    Here's the formatted code:
+    def sum(a, b):
+        # adding two numbers
+        return a + b
 
-```
-def sum(a, b):
-    # adding two numbers
-    return a + b
+    num1 = 5
+    num2 = 10
 
-num1 = 5
-num2 = 10
-
-# calling function
-result = sum(num1, num2)
-print("The sum of", num1, "and", num2, "is", result)
-```
+    # calling function
+    result = sum(num1, num2)
+    print("The sum of", num1, "and", num2, "is", result)
+  </blockquote>
 
 Changes made:
 - Removed unnecessary spaces between function name and parameters.
