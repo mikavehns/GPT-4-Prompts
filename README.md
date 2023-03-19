@@ -28,11 +28,7 @@ By: [@mikavehns](https://github.com/mikavehns)
  <details>
   <summary>User Message</summary>
   <blockquote>
-    
-    ```
     Your Code
-    ```
-    
   </blockquote>
  </details>
  
@@ -40,17 +36,18 @@ By: [@mikavehns](https://github.com/mikavehns)
  <details>
   <summary>Input</summary>
   <blockquote>
-  def    sum    (a ,b )    :
-    #adding two numbers
-    return(  a   +    b
-    )
-num1 =    5
-num2 =    10
+    def    sum    (a ,b )    :
+      #adding two numbers
+      return(  a   +    b
+      )
+    
+    num1 =    5
+    num2 =    10
 
-#calling function
-result= sum (num1, num2)
-print("The sum of", num1 , "and", num2 , "is", result)
-</blockquote>
+    #calling function
+    result= sum (num1, num2)
+    print("The sum of", num1 , "and", num2 , "is", result)
+  </blockquote>
  </details>
  
  <details>
