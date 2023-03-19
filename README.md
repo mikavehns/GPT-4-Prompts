@@ -22,7 +22,7 @@ By: [@mikavehns](https://github.com/mikavehns)
 
 <details>
   <summary>System Message</summary>
-  <q>You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.</q>
+  <blockquote>You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.</blockquote>
  </details>
  
  <details>
