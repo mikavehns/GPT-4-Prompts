@@ -22,18 +22,18 @@ By: [@mikavehns](https://github.com/mikavehns)
 
 <details>
   <summary>System Message</summary>
-> You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance.
+> "You are a programming expert. The user will provide you with his code and you task is to format it, so it has a better visual appearance."
  </details>
  
  <details>
   <summary>User Message</summary>
-  > `Your Code`
+  > ```Your Code```
  </details>
  
  ### Example
  <details>
   <summary>Input</summary>
-  > `def    sum    (a ,b )    :
+  > ```def    sum    (a ,b )    :
 #adding two numbers
   return(  a   +    b
   )
@@ -42,7 +42,7 @@ num2 =    10
 
 #calling function
 result= sum (num1, num2)
-print("The sum of", num1 , "and", num2 , "is", result)`
+print("The sum of", num1 , "and", num2 , "is", result)```
  </details>
  
  <details>
