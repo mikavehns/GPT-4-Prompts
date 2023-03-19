@@ -33,7 +33,7 @@ By: [@mikavehns](https://github.com/mikavehns)
     Your Code
     ```
     
-   </blockquote>
+  </blockquote>
  </details>
  
  ### Example
@@ -43,9 +43,9 @@ By: [@mikavehns](https://github.com/mikavehns)
 
   ```
   def    sum    (a ,b )    :
-#adding two numbers
-  return(  a   +    b
-  )
+    #adding two numbers
+    return(  a   +    b
+    )
 num1 =    5
 num2 =    10
 
@@ -53,6 +53,7 @@ num2 =    10
 result= sum (num1, num2)
 print("The sum of", num1 , "and", num2 , "is", result)
 ```
+    
 </blockquote>
  </details>
  
