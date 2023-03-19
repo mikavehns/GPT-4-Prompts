@@ -1,5 +1,3 @@
-Certainly! Here's the markdown with subparts subordinated:
-
 # GPT-4 Prompts
 
 ![GPT-4](https://user-images.githubusercontent.com/66560242/226178713-db00b770-8e45-4bbc-aab3-4d8f746fed1b.jpeg)
