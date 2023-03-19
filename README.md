@@ -55,7 +55,6 @@ By: [@mikavehns](https://github.com/mikavehns)
   <blockquote>
     Here's the formatted code:
     
-    ```
     def sum(a, b):
         # adding two numbers
         return a + b
@@ -66,7 +65,6 @@ By: [@mikavehns](https://github.com/mikavehns)
     # calling function
     result = sum(num1, num2)
     print("The sum of", num1, "and", num2, "is", result)
-    ```
     
   </blockquote>
 
