@@ -19,7 +19,6 @@ These prompts are designed to be used on the [OpenAI-Playground](https://platfor
 ---
 
 ## Prompts
-[Fix code appearance](### Fix code appearance)
 
 ### Fix code appearance
 
