@@ -56,6 +56,7 @@ By: [@mikavehns](https://github.com/mikavehns)
   <summary>Output</summary>
   <blockquote>
     Here's the formatted code:
+   </blockquote>
     <code>
       def sum(a, b):
           # adding two numbers
@@ -68,7 +69,8 @@ By: [@mikavehns](https://github.com/mikavehns)
       result = sum(num1, num2)
       print("The sum of", num1, "and", num2, "is", result)
     </code>
-
+  
+  <blockquote>
     Changes made:
     - Removed unnecessary spaces between function name and parameters.
     - Added spaces between parameters and commas.
