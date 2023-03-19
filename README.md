@@ -16,7 +16,10 @@ Each prompt in this repository comes with an explanation of how to use it. You c
 
 These prompts are designed to be used on the [OpenAI-Playground](https://platform.openai.com/playground?mode=chat). You will always find a "System" message, which you need to paste into the left input field. Any additional instructions will be provided above the prompt.
 
+---
+
 ## Prompts
+[Fix code appearance](### Fix code appearance)
 
 ### Fix code appearance
 
